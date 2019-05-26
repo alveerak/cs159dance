@@ -1,0 +1,3 @@
+git+https://github.com/AgnezIO/agnez.git
+seaborn
+keras
